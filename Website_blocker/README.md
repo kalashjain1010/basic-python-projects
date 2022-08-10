@@ -11,7 +11,3 @@ On Windows, run the script as Administrator
 
 To unblock the websites, run the `website_unblocker.py` script.
 
-
-## *Author Name*
-
-[Phillibob55](https://github.com/Phillibob55)
