@@ -38,7 +38,7 @@ def alarm():
 # Add Labels, Frame, Button, Optionmenus
 Label(root,text="Alarm Clock",font=("Helvetica 20 bold"),fg="red").pack(pady=10)
 Label(root,text="Set Time",font=("Helvetica 15 bold")).pack()
-
+#frames
 frame = Frame(root)
 frame.pack()
 
