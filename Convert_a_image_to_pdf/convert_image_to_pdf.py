@@ -18,6 +18,7 @@ elif os.path.isfile(filepath):
     if filepath.endswith(".jpg"):
         with open("output.pdf", "wb") as f:
             f.write(img2pdf.convert(filepath))
+            #except this
 else:
     print("please input file or dir")
 
