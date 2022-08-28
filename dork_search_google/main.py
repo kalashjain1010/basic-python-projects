@@ -34,6 +34,7 @@ errors = {'MySQL': 'error in your SQL syntax',
 
 
 try:
+    #to import the libraries
     import requests
     import googlesearch
     # the function to exploit the google hacking databases
